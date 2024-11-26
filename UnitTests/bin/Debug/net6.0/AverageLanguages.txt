@@ -1,0 +1,27 @@
+Luxembourg	3.6
+Netherlands	3.2
+Slovenia	3.0
+Denmark	2.8
+Lithuania	2.7
+Latvia	2.7	
+Estonia	2.7
+Malta	2.7	
+Belgium	2.6	
+Finland	2.6
+Sweden	2.5
+Slovakia	2.5	
+Austria	2.2	
+Cyprus	2.1	
+Germany	2.0	
+France	1.8
+Italy	1.8
+Romania	1.8
+Czech Republic	1.8
+Greece	1.8
+Portugal	1.8
+Spain	1.7
+Bulgaria	1.7
+United Kingdom	1.6
+Poland	1.6	
+Ireland	1.6
+Hungary	1.5

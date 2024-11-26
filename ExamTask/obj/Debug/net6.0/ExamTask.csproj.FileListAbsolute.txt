@@ -1,0 +1,14 @@
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.AssemblyInfoInputs.cache
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.AssemblyInfo.cs
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.csproj.CoreCompileInputs.cache
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\bin\Debug\net6.0\ExamTask.exe
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\bin\Debug\net6.0\ExamTask.deps.json
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\bin\Debug\net6.0\ExamTask.runtimeconfig.json
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\bin\Debug\net6.0\ExamTask.dll
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\bin\Debug\net6.0\ExamTask.pdb
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.dll
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\refint\ExamTask.dll
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.pdb
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ExamTask.genruntimeconfig.cache
+C:\Users\ktroi\source\repos\ExamTask\ExamTask\obj\Debug\net6.0\ref\ExamTask.dll
